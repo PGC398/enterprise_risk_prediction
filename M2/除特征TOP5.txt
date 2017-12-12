@@ -1,0 +1,5 @@
+divide_HY_RGYEAR                      5424
+divide_ETYPE_RGYEAR                   4432
+divide_INUM_RGYEAR                    2936
+divide_ZCZB_RGYEAR                    2544
+divide_HY_rZCZB                       2439
